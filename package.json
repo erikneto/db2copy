@@ -1,0 +1,20 @@
+{
+  "name": "conversationtest",
+  "version": "0.0.1",
+  "description": "Module to perform a test on IBM Watson Conversation Service",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "watson",
+    "conversation",
+    "ibm",
+    "test"
+  ],
+  "author": "erikneto@br.ibm.com",
+  "license": "ISC",
+  "dependencies": {
+    "watson-developer-cloud": "^2.29.0"
+  }
+}
