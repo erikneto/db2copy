@@ -10,6 +10,7 @@ var workspace = "29e722fb-3de9-491d-a94f-ddb370c6ce72";
 watsontest.init(user,pwd,workspace);
 
 watsontest.runTest((err,result)=>{
-
+    if(!err)
+        console.log(result);
 });
 
