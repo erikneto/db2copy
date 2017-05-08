@@ -16,5 +16,8 @@
   "license": "ISC",
   "dependencies": {
     "watson-developer-cloud": "^2.29.0"
+  },
+  "scripts":{
+    "start": "node app.js"
   }
 }
